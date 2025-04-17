@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification and Identification using Computer Vision
+# 🌿 Plant Disease Classification
 
 This project is a **hands-on exploration of computer vision techniques** to automatically identify **plant types** and their **specific diseases** using deep learning.
 
